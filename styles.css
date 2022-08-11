@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.banner1 {
+    background-image: url("img/Banner1.png");
+    height: 100vh;
+}
+
+.banner1__img {
+    height: 100vh;
+    background-color: rgb(0, 0, 0, 0.3);
+}
+
+.navbar__lista {
+    display: flex;
+    justify-content: center;
+    gap: 7em;
+    padding: 5em;
+}
+
+.navbar__item-link {
+    font-size: 24px;
+    font-weight: 300;
+    color: #fff;
+    text-decoration: none;
+}
